@@ -1,6 +1,6 @@
-# deliveryapp
+# Food Delivery App UI
 
-ScreenShots 
+ScreenShots..
 
 ![kkl](https://user-images.githubusercontent.com/116195220/197081032-e1d530f5-7962-4c8b-ae57-1fab627a2d89.jpg) 
 
